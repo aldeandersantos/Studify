@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "bot_aldeander",
+  "version": "1.0.0",
+  "description": "Bot de estudos para Aldeander",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot_aldeander"
+  ],
+  "author": "Aldeander Santos",
+  "license": "ISC"
+}
